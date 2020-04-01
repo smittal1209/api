@@ -1,46 +1,50 @@
 {
 	"donate": {
-		"donate": {
-			"gov": [
-				{
-					"heading": "PM CARES | Central Government",
-					"index": 1,
-					"content": {
-						"Name of the Account": "PM CARES",
-						"Account Number": "2121PM20202",
-						"IFSC Code": "SBIN0000691",
-						"SWIFT Code": "SBININBB104",
-						"Name of Bank and Branch": "State Bank of India, New Delhi Main Branch",
-						"UPI ID": "pmcares@sbi"
-					},
-					"links": {
-						"source": "https://www.pmindia.gov.in/en/news_updates/appeal-to-generously-donate-to-pms-citizen-assistance-and-relief-in-emergency-situations-fund-pm-cares-fund/"
-					}
+		"gov": [
+			{
+				"heading": "PM CARES | Central Government",
+				"content": {
+					"Name of the Account": "PM CARES",
+					"Account Number": "2121PM20202",
+					"IFSC Code": "SBIN0000691",
+					"SWIFT Code": "SBININBB104",
+					"Name of Bank and Branch": "State Bank of India, New Delhi Main Branch",
+					"UPI ID": "pmcares@sbi"
 				},
-				{
-					"heading": "Prime Minister's National Relief Fund | Central Government",
-					"index": 1,
-					"content": {
-						"UPI ID": "pmnrf@centralbank"
-					},
-					"links": {
-						"source": "https://pmnrf.gov.in/en/online-donation",
-						"Donate Online": "https://pmnrf.gov.in/en/online-donation"
-					}
-				},
-				{
-					"heading": "Chief Minister's Relief Fund COVID-19 | Maharashtra Government",
-					"index": 1,
-					"content": {
-						"UPI ID": "cmrfmahacovid19@sbi"
-					},
-					"links": {
-						"source": "https://cmrf.maharashtra.gov.in/CMRFCitizen/mainindexaction.action",
-						"Donate Online": "https://cmrf.maharashtra.gov.in/CMRFCitizen/DonationOnlineForm.action"
-					}
+				"links": {
+					"Official Link": "https://www.pmindia.gov.in/en/news_updates/appeal-to-generously-donate-to-pms-citizen-assistance-and-relief-in-emergency-situations-fund-pm-cares-fund/"
 				}
-			],
-			"nonGov": []
-		}
+			},
+			{
+				"heading": "Prime Minister's National Relief Fund | Central Government",
+				"content": {
+					"UPI ID": "pmnrf@centralbank"
+				},
+				"links": {
+					"Official Link": "https://pmnrf.gov.in/en/online-donation",
+					"Donate Online": "https://pmnrf.gov.in/en/online-donation"
+				}
+			},
+			{
+				"heading": "Chief Minister's Relief Fund COVID-19 | Maharashtra Government",
+				"content": {
+					"UPI ID": "cmrfmahacovid19@sbi"
+				},
+				"links": {
+					"Official Link": "https://cmrf.maharashtra.gov.in/CMRFCitizen/mainindexaction.action",
+					"Donate Online": "https://cmrf.maharashtra.gov.in/CMRFCitizen/DonationOnlineForm.action"
+				}
+			}
+		],
+		"nonGov": [
+			{
+				"heading": "Give India | NGO",
+				"content": {},
+				"links": {
+					"Official Link": "https://indiafightscorona.giveindia.org/?utm_Official Link=subs_homepage_desktop",
+					"Donate Online": "https://fundraisers.giveindia.org/donate/LC5e8483edb766f"
+				}
+			}
+		]
 	}
 }
